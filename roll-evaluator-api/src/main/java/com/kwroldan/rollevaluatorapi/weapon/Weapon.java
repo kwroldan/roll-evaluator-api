@@ -23,9 +23,9 @@ public class Weapon {
     @Column(name = "image_url")
     private String imageUrl;
 
-    @Column(name = "firsttrait")
+    @Column(name = "first_trait")
     private String firstTrait;
 
-    @Column(name = "secondtrait")
+    @Column(name = "second_trait")
     private String secondTrait;
 }
