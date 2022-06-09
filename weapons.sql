@@ -54,6 +54,36 @@ INSERT INTO weapons (id, name, image_url, first_trait, second_trait) VALUES (
         'https://ik.imagekit.io/kwroldan/Capstone/BumpInTheNight_BiBfwh1Tk.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1654792166096',
         'Autoloading Holster',
         'Frenzy'
+    ),(
+        10, 
+        'New Purpose',
+        'https://ik.imagekit.io/kwroldan/Capstone/NewPurpose_lgTfLaCSA.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1654793026253',
+        'Perpetual Motion',
+        'Adaptive Munitions'
+    ),(
+        11,
+        'The Epicurean',
+        'https://ik.imagekit.io/kwroldan/Capstone/Epicurean_7dBjRN47j.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1654793026148',
+        'Well-Rounded',
+        'Repulsor Brace'
+    ),(
+        12,
+        'Unforgiven',
+        'https://ik.imagekit.io/kwroldan/Capstone/Unforgiven_k7CVi8Xzf.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1654793026159',
+        'Demolitionist',
+        'Golden Tricorn'
+    ),(
+        13,
+        'Stormchaser',
+        'https://ik.imagekit.io/kwroldan/Capstone/Stormchaser_b8ha5WBBM.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1654793026186',
+        'Clown Cartridge',
+        'Firing Line'
+    ),(
+        14,
+        'Fixed Odds',
+        'https://ik.imagekit.io/kwroldan/Capstone/FixedOdds_QG_exnJzUg.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1654793026324',
+        'Field Prep',
+        'Killing Tally'
 );
     
 
