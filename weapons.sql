@@ -27,7 +27,7 @@ INSERT INTO weapons (id, name, image_url, first_trait, second_trait) VALUES (
     ),(
         5,
         'Tears of Contrition',
-        'https://ik.imagekit.io/kwroldan/Capstone/TearsOfContrition_7o0Pu8nzk2.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1654790635925'
+        'https://ik.imagekit.io/kwroldan/Capstone/TearsOfContrition_7o0Pu8nzk2.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1654790635925',
         'Triple Tap',
         'Explosive Payload'
     ),(
