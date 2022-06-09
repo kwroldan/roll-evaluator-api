@@ -84,6 +84,12 @@ INSERT INTO weapons (id, name, image_url, first_trait, second_trait) VALUES (
         'https://ik.imagekit.io/kwroldan/Capstone/FixedOdds_QG_exnJzUg.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1654793026324',
         'Field Prep',
         'Killing Tally'
+    ),(
+        15,
+        'Without Remorse',
+        'https://ik.imagekit.io/kwroldan/Capstone/WithoutRemorse_yNz5lZ2Aqw.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1654795314254',
+        'Steady Hands',
+        'Incandescent'
 );
     
 
