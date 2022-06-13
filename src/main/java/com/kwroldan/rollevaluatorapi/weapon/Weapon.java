@@ -5,6 +5,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Table;
 import javax.persistence.Id;
+import javax.persistence.Lob;
 import javax.persistence.Column;
 
 import lombok.Data;
@@ -62,7 +63,7 @@ public class Weapon {
     @Column(name = "preferred_combo")
     private String preferredCombo;
 
-    // @Column(name = "combo_description", columnDefinition = "text")
-    // private String comboDescription;
+    @Column(name = "combo_description", columnDefinition = "TEXT")
+    private String comboDescription;
 
 }
