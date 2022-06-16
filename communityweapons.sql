@@ -1,6 +1,6 @@
-TRUNCATE community;
+TRUNCATE picks;
 
-INSERT INTO community (
+INSERT INTO picks (
     id,
     name,
     image_url,
