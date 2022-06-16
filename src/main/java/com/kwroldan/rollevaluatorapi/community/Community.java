@@ -31,5 +31,4 @@ public class Community {
 
     @Column(name = "comment", columnDefinition = "TEXT")
     private String comment;
-
 }

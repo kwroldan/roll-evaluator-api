@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.CrossOrigin;
 
 @CrossOrigin
 @RestController
-@RequestMapping("api/community")
+@RequestMapping("api/community-picks")
 public class CommunityController {
     @Autowired
     private CommunityService communityService;

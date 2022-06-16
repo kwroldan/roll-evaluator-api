@@ -14,4 +14,11 @@ INSERT INTO community (
     'Rapid Hit',
     'Vorpal Weapon',
     'A good alternative to the Clown Cartridge + Firing Line roll if you''re running solo!'
+),(
+    2,
+    'Austringer',
+    'https://ik.imagekit.io/kwroldan/Capstone/Austringer_W66yh0aKI.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1654720693430',
+    'Eye of the Storm',
+    'Rangefinder',
+    'Strong roll for PvP.'
 );
