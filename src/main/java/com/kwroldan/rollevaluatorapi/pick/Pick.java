@@ -1,4 +1,4 @@
-package com.kwroldan.rollevaluatorapi.community;
+package com.kwroldan.rollevaluatorapi.pick;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -11,8 +11,8 @@ import lombok.Data;
 
 @Entity
 @Data
-@Table(name = "Community")
-public class Community {
+@Table(name = "Picks")
+public class Pick {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private long id;
